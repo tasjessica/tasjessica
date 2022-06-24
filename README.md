@@ -1,7 +1,7 @@
 ### Oie, eu sou a Jessica
 
 
-- 💙 Estou estudando JavaScript, HTML, CSS e Python.
+- 💙 Estou estudando Java, HTML, CSS e Python.
 
 
 
