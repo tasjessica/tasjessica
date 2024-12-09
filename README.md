@@ -1,8 +1,8 @@
 ### Oie, eu sou a Jessica
 
 
-- 💙 Estou estudando Java, HTML, CSS e Javascript.
-- Faltam dois períodos para a minha formatura e também estou em busca da primeira oportunidade. Descobri a paixão por TI na faculdade de fisioterapia, quando entrei para um time de LOL e todos eram da área, mas só após a formatura ingressei na área de TI, no curso de Análise e Desenvolvimento de Sistemas.
+- 💙 Estou estudando Python, HTML, CSS e Javascript.
+
 
 
 
