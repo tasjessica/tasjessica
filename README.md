@@ -1,4 +1,4 @@
-### Oie, eu sou a Jessica
+### Oie, eu sou a Jess
 
 
 - 💙 Estou estudando HTML, CSS e Javascript.
