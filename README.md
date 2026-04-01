@@ -36,7 +36,7 @@
 
   <img align="center" alt="Jess-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <img align="right" alt="Jess-pic" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/982994621888098354/983726359610290286/Design_sem_nome.png">
+  
 
 </div>
 
