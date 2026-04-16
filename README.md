@@ -8,7 +8,7 @@
 ---
 
 <div>
-  <img src="https://img.shields.io/badge/VISUALIZAÇÕES-3498DB?style=for-the-badge&logo=eye&logoColor=white" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=tasjessica&color=3498db&style=flat-square&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
 </div>
 
 ## 🚀 Sobre Mim
