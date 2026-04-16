@@ -8,7 +8,7 @@
 ---
 
 <div>
-  <img src="https://profile-counter.glitch.me/tasjessica/count.svg" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=tasjessica&color=3498db&style=flat-square&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
 </div>
 
 ## 🚀 Sobre Mim
@@ -26,6 +26,7 @@ Fora do ambiente profissional, nutro uma paixão única: criar "arte" usando exc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 </div>
 
 ---
