@@ -8,7 +8,7 @@
 ---
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=tasjessica&color=3498db&style=flat-square&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=tasjessica&color=3498db&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
 
 ## 🚀 Sobre Mim
