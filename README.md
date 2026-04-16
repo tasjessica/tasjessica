@@ -7,6 +7,10 @@
 
 ---
 
+<div>
+  <img src="https://profile-counter.glitch.me/tasjessica/count.svg" alt="Contador de Visitas" />
+</div>
+
 ## 🚀 Sobre Mim
 
 Atualmente, estou imersa no mundo do desenvolvimento Front-end, com foco em HTML, CSS e JavaScript. Minha formação técnica me deu uma base sólida, e agora estou aplicando esse conhecimento para criar experiências web incríveis. Estou sempre em busca de novos desafios e oportunidades de aprendizado!
