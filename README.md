@@ -10,10 +10,6 @@
 
 Atualmente, estou imersa no mundo do desenvolvimento Front-end, com foco em HTML, CSS e JavaScript. Minha formação técnica me deu uma base sólida, e agora estou aplicando esse conhecimento para criar experiências web incríveis. Estou sempre em busca de novos desafios e oportunidades de aprendizado!
 
-* 🌱 Atualmente estudando HTML, CSS e JavaScript.
-* 🎓 Formada em Análise e Desenvolvimento de Sistemas.
-* 💡 Interessada em Front-end Development e UI/UX.
-
 ---
 
 ## 💻 Tech Stack
@@ -35,11 +31,6 @@ Atualmente, estou imersa no mundo do desenvolvimento Front-end, com foco em HTML
   <a href="mailto:tassjessica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
----
-
-## 🏆 Conquistas
-
 <div align="center">
-  <img src="https://github.com/tasjessica/tasjessica/raw/main/badges/pulga.png" alt="Badge Pulga" width="60"/>
-  <img src="https://github.com/tasjessica/tasjessica/raw/main/badges/yolo.png" alt="Badge Yolo" width="60"/>
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasjessica&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
