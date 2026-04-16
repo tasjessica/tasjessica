@@ -1,5 +1,4 @@
 <div>
-  <img src="URL_DA_SUA_FOTO" alt="Jessica Andrade" width="150" style="border-radius: 50%; border: 3px solid #3498db;"/>
   <h1>Oie, eu sou a Jess! 👋</h1>
   <p>Formada em Análise e Desenvolvimento de Sistemas | Apaixonada por Desenvolvimento Web</p>
 </div>
@@ -11,6 +10,10 @@
 Atualmente, estou imersa no mundo do desenvolvimento Front-end, com foco em HTML, CSS e JavaScript. Minha formação técnica me deu uma base sólida, e agora estou aplicando esse conhecimento para criar experiências web incríveis. Estou sempre em busca de novos desafios e oportunidades de aprendizado!
 
 ---
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftasjessica&count_bg=%233498DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es&edge_flat=false" alt="Contador de Visitas"/>
+</div>
 
 ## 💻 Tech Stack
 
