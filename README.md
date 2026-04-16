@@ -3,15 +3,19 @@
   <p>Formada em Análise e Desenvolvimento de Sistemas | Apaixonada por Desenvolvimento Web</p>
 </div>
 
+> “Faça ou não faça. Não existe "tentar".” — Yoda
+
 ---
 
 ## 🚀 Sobre Mim
 
 Atualmente, estou imersa no mundo do desenvolvimento Front-end, com foco em HTML, CSS e JavaScript. Minha formação técnica me deu uma base sólida, e agora estou aplicando esse conhecimento para criar experiências web incríveis. Estou sempre em busca de novos desafios e oportunidades de aprendizado!
 
+Fora do ambiente profissional, nutro uma paixão única: criar "arte" usando exclusivamente CSS. Esta atividade não só aguça as minhas proezas técnicas, mas também me permite misturar programação e criatividade de uma forma exclusivamente cativante.
+
 ---
 
-<div align="center">
+<div>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftasjessica&count_bg=%233498DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es&edge_flat=false" alt="Contador de Visitas"/>
 </div>
 
